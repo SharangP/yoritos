@@ -1,6 +1,6 @@
 /**************************
  * Yo enabled vending machine
- *************************>
+ *************************/
 
 #define BUTTON_PRESS_TIME 500
 
@@ -29,3 +29,4 @@ void loop() {
   }
   delay(1000);
 }
+
